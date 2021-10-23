@@ -1,1 +1,1 @@
-# Wst-p-do-programowania
+# Wstęp do programowania
